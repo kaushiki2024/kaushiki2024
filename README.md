@@ -20,7 +20,7 @@ Currently, I'm building hands-on projects using **Python, SQL, Power BI, and Exc
 * Pandas
 * NumPy
 
-### Data Visualization & BI
+### Data Visualization & Business Intelligence
 
 * Power BI
 * Matplotlib
@@ -39,12 +39,12 @@ Currently, I'm building hands-on projects using **Python, SQL, Power BI, and Exc
 * Data Visualization
 * Business Insights & Recommendations
 
-### Other
+### Tools
 
-* Git & GitHub
-* Flask
-* REST APIs
-* Problem Solving
+* MySQL
+* Git
+* GitHub
+* Jupyter Notebook
 
 ---
 
@@ -144,6 +144,7 @@ I also practice **DSA and competitive programming** to strengthen my programming
 # 🤝 Connect With Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/kaushiki-mishra24/)
+* 📧 [Email](mailto:kaushikim80@gmail.com)
 * 💻 [GitHub](https://github.com/kaushiki2024)
 * 🟢 [LeetCode](https://leetcode.com/u/Kaushiki365/)
 * ⚡ [Codeforces](https://codeforces.com/profile/Coder_future/)
