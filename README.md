@@ -1,6 +1,6 @@
 # Hi, I'm Kaushiki Mishra 👋
 
-### Aspiring Data Analyst | Python | SQL | Power BI | Excel
+### Data Analyst Trainee | Python | SQL | Power BI | Excel
 
 I'm a Computer Science & Engineering graduate focused on **Data Analytics and Business Intelligence**.
 
@@ -39,9 +39,9 @@ Currently, I'm building hands-on projects using **Python, SQL, Power BI, and Exc
 * Data Visualization
 * Business Insights & Recommendations
 
-### Tools
+### Tools & Database
 
-* MySQL
+* Microsoft SQL Server
 * Git
 * GitHub
 * Jupyter Notebook
@@ -54,7 +54,7 @@ Currently, I'm building hands-on projects using **Python, SQL, Power BI, and Exc
 
 An end-to-end metro analytics project analyzing **92,280 ridership records across 83 stations** to understand passenger demand, peak travel periods, station performance, and ridership concentration.
 
-**Tech Stack:** Python • Pandas • MySQL • SQL • Power BI
+**Tech Stack:** Python • Pandas • SQL • Power BI
 
 ### Key Analysis
 
@@ -71,7 +71,7 @@ An end-to-end metro analytics project analyzing **92,280 ridership records acros
 
 * **33.84M** total passenger ridership
 * **83** metro stations analyzed
-* **18:00** identified as the highest-ridership hour
+* **18:00** identified as the peak hour
 * **Nadaprabhu Kempegowda Station, Majestic** recorded the highest ridership
 * **Evening Peak** was the highest-ridership time period
 * Top 5 stations contributed **17.32%** of total network ridership
@@ -83,39 +83,31 @@ An end-to-end metro analytics project analyzing **92,280 ridership records acros
 
 ## 🛒 E-Commerce Sales & Customer Revenue Analytics
 
-An end-to-end e-commerce analytics project focused on understanding **sales performance, customer behavior, revenue trends, and product performance** using the Online Retail II dataset.
+An end-to-end e-commerce analytics project analyzing **1M+ transaction records** to understand sales performance, customer purchasing behavior, revenue trends, product performance, and country-level sales.
 
-**Tech Stack:** Python • Pandas • SQL • MySQL • Power BI • Excel
+**Tech Stack:** Python • Pandas • SQL • Power BI • Excel
 
 ### Key Analysis
 
-* Sales and revenue trends
-* Customer purchasing behavior
+* Sales and revenue performance
+* Monthly revenue trends
 * Product performance
+* Customer purchasing behavior
+* Repeat vs one-time customers
 * Customer segmentation
-* Time-based sales patterns
+* Country-level sales performance
 * Revenue contribution
 * Business KPIs
-* Interactive Power BI dashboards
-* Business recommendations
 
-### Analytical Workflow
+### Key Findings
 
-```text
-Raw Transaction Data
-        ↓
-Data Cleaning & Preprocessing
-        ↓
-Exploratory Data Analysis
-        ↓
-SQL Business Analysis
-        ↓
-KPI Development
-        ↓
-Power BI Dashboard
-        ↓
-Business Insights
-```
+* **20.48M** total revenue generated across **40,077 transactions**
+* **5,878** unique customers analyzed
+* **4,255** repeat customers and **1,623** one-time customers
+* **72.5%** of customers were repeat customers
+* Identified **top-performing products** based on revenue and transaction performance
+* Analyzed **country-level revenue contribution** to identify high-performing markets
+* Identified **monthly revenue trends** to evaluate changes in sales performance
 
 🔗 [View Project](https://github.com/kaushiki2024/ecommerce-sales-customer-analytics)
 
