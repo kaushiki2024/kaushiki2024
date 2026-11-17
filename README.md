@@ -1,148 +1,140 @@
 # Hi, I'm Kaushiki Mishra 👋
 
-### Data Analyst Trainee | Python | SQL | Power BI | Excel
+### Aspiring Machine Learning Engineer | Python Developer | CSE Graduate
 
-I'm a Computer Science & Engineering graduate focused on **Data Analytics and Business Intelligence**.
+Computer Science & Engineering graduate with a specialization in Artificial Intelligence and Machine Learning.
 
-I enjoy working with data to clean, analyze, visualize, and transform raw datasets into meaningful business insights.
+I enjoy writing code, solving programming problems, and building practical applications using Python and Machine Learning.
 
-Currently, I'm building hands-on projects using **Python, SQL, Power BI, and Excel**, with a focus on solving real-world analytical problems.
+I have hands-on experience with data preprocessing, exploratory data analysis, regression algorithms, model evaluation, and developing APIs and interactive applications.
 
----
-
-## 🛠️ Skills
-
-### Data Analytics
-
-* Python
-* SQL
-* Excel
-* Pandas
-* NumPy
-
-### Data Visualization & Business Intelligence
-
-* Power BI
-* Matplotlib
-* Seaborn
-* Dashboard Development
-* KPI Development
-
-### Core Analytics
-
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Business Analysis
-* Sales & Revenue Analytics
-* Customer Analytics
-* Operational Analytics
-* Data Visualization
-* Business Insights & Recommendations
-
-### Tools & Database
-
-* Microsoft SQL Server
-* Git
-* GitHub
-* Jupyter Notebook
+Currently focused on strengthening my Machine Learning and Python development skills through practical projects.
 
 ---
 
-# 📊 Featured Data Analytics Projects
+## 🛠️ Technical Skills
 
-## 🚇 Metro Operations & Passenger Demand Analytics
+**Programming Languages**
+- Python
+- SQL
 
-An end-to-end metro analytics project analyzing **92,280 ridership records across 83 stations** to understand passenger demand, peak travel periods, station performance, and ridership concentration.
+**Machine Learning & Data Science**
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Regression Algorithms
+- Feature Scaling
+- Model Evaluation
 
-**Tech Stack:** Python • Pandas • SQL • Power BI
+**Backend & Application Development**
+- FastAPI
+- REST APIs
+- Streamlit
+- Joblib
 
-### Key Analysis
-
-* Station-level passenger demand
-* Peak travel hours
-* Day-of-week ridership
-* Weekday vs weekend demand
-* Time-period performance
-* Station-specific peak hours
-* Ridership concentration
-* Network-level KPIs
-
-### Key Findings
-
-* **33.84M** total passenger ridership
-* **83** metro stations analyzed
-* **18:00** identified as the peak hour
-* **Nadaprabhu Kempegowda Station, Majestic** recorded the highest ridership
-* **Evening Peak** was the highest-ridership time period
-* Top 5 stations contributed **17.32%** of total network ridership
-* Top 10 stations contributed **27.70%** of total network ridership
-
-🔗 [View Project](https://github.com/kaushiki2024/metro-operations-analytics)
-
----
-
-## 🛒 E-Commerce Sales & Customer Revenue Analytics
-
-An end-to-end e-commerce analytics project analyzing **1M+ transaction records** to understand sales performance, customer purchasing behavior, revenue trends, product performance, and country-level sales.
-
-**Tech Stack:** Python • Pandas • SQL • Power BI • Excel
-
-### Key Analysis
-
-* Sales and revenue performance
-* Monthly revenue trends
-* Product performance
-* Customer purchasing behavior
-* Repeat vs one-time customers
-* Customer segmentation
-* Country-level sales performance
-* Revenue contribution
-* Business KPIs
-
-### Key Findings
-
-* **20.48M** total revenue generated across **40,077 transactions**
-* **5,878** unique customers analyzed
-* **4,255** repeat customers and **1,623** one-time customers
-* **72.5%** of customers were repeat customers
-* Identified **top-performing products** based on revenue and transaction performance
-* Analyzed **country-level revenue contribution** to identify high-performing markets
-* Identified **monthly revenue trends** to evaluate changes in sales performance
-
-🔗 [View Project](https://github.com/kaushiki2024/ecommerce-sales-customer-analytics)
+**Database & Developer Tools**
+- Microsoft SQL Server
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
-# 📈 Currently Working On
+## 🚀 Featured Project
 
-* 🔹 Building real-world Data Analytics projects
-* 🔹 Strengthening SQL for Data Analyst interviews
-* 🔹 Developing interactive Power BI dashboards
-* 🔹 Improving Python for data analysis
-* 🔹 Practicing business-oriented problem solving
-* 🔹 Turning analytical results into actionable business recommendations
+### 🏠 House Price Prediction | Machine Learning
+
+Developed an end-to-end Machine Learning application using the California Housing Dataset to predict median house values based on housing and demographic features.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, FastAPI, Streamlit
+
+**Implementation:**
+- Performed exploratory data analysis and identified feature relationships.
+- Applied preprocessing and feature scaling.
+- Trained and compared Linear Regression, Decision Tree, and Random Forest models.
+- Evaluated model performance using MAE, RMSE, and R².
+- Selected Random Forest as the best-performing model.
+- Developed a REST API using FastAPI.
+- Built an interactive prediction interface using Streamlit.
+- Deployed the backend and frontend.
+
+**Model Results:**
+- Best Model: Random Forest Regressor
+- R² Score: 80.51%
+- MAE: 0.3275
+- RMSE: 0.5053
+
+🔗 **[GitHub Repository](https://github.com/kaushiki2024/House-Price-Prediction)**
+
+🌐 **[Live Application](https://calihouseinsights.streamlit.app/)**
 
 ---
 
-# 🧩 Problem Solving
+## 📊 Other Projects
 
-I also practice **DSA and competitive programming** to strengthen my programming fundamentals and problem-solving skills.
+### 🚇 Metro Operations & Passenger Demand Analytics
 
-* 🟢 [LeetCode](https://leetcode.com/u/Kaushiki365/)
-* ⚡ [Codeforces](https://codeforces.com/profile/Coder_future/)
+Analyzed 92,280 ridership records across 83 metro stations to identify passenger demand patterns, peak travel hours, station performance, and ridership concentration.
+
+**Technologies:** Python, Pandas, SQL, Power BI
+
+**Highlights:**
+- Analyzed 33.84M total passenger ridership.
+- Identified peak travel hours and high-demand stations.
+- Compared weekday and weekend ridership.
+- Evaluated station-level and time-period performance.
+- Analyzed ridership contribution across top stations.
+
+🔗 [GitHub Repository](https://github.com/kaushiki2024/metro-operations-analytics)
+
+### 🛒 E-Commerce Sales & Customer Revenue Analytics
+
+Analyzed 1M+ transaction records to understand sales performance, customer purchasing behavior, revenue trends, and product performance.
+
+**Technologies:** Python, Pandas, SQL, Power BI, Excel
+
+**Highlights:**
+- Analyzed 20.48M total revenue across 40,077 transactions.
+- Studied 5,878 unique customers.
+- Identified repeat and one-time customer patterns.
+- Analyzed monthly revenue and country-level sales.
+- Evaluated product and customer performance.
+
+🔗 [GitHub Repository](https://github.com/kaushiki2024/ecommerce-sales-customer-analytics)
 
 ---
 
-# 🤝 Connect With Me
+## 🎓 Education
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/kaushiki-mishra24/)
-* 📧 [Email](mailto:kaushikim80@gmail.com)
-* 💻 [GitHub](https://github.com/kaushiki2024)
-* 🟢 [LeetCode](https://leetcode.com/u/Kaushiki365/)
-* ⚡ [Codeforces](https://codeforces.com/profile/Coder_future/)
+**B.Tech – Computer Science & Engineering (AI & ML)**  
+Buddha Institute of Technology, AKTU  
+2022 – 2026 | CGPA: 7.96
 
 ---
 
-### 🎯 Career Goal
+## 🧩 Problem Solving
 
-Looking for opportunities as a **Data Analyst**, where I can use **SQL, Python, Power BI, and Excel** to transform data into actionable insights and support data-driven business decisions.
+Actively practice Data Structures and Algorithms to strengthen programming fundamentals, logical thinking, and problem-solving skills.
+
+- 🟢 [LeetCode](https://leetcode.com/u/Kaushiki365/)
+- ⚡ [Codeforces](https://codeforces.com/profile/Coder_future/)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaushiki-mishra24/)
+- 📧 [Email](mailto:kaushikim80@gmail.com)
+- 💻 [GitHub](https://github.com/kaushiki2024)
+- 🟢 [LeetCode](https://leetcode.com/u/Kaushiki365/)
+- ⚡ [Codeforces](https://codeforces.com/profile/Coder_future/)
+
+---
+
+### 🎯 Career Interests
+
+Open to entry-level opportunities in **Machine Learning, Python Development, and AI/ML Engineering**, where I can apply my programming knowledge and contribute to building practical technical solutions.
