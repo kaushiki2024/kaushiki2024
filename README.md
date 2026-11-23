@@ -26,7 +26,7 @@ Currently focused on strengthening my Machine Learning and Python development sk
 - Seaborn
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
-- Regression Algorithms
+- Algorithms
 - Feature Scaling
 - Model Evaluation
 
